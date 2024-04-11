@@ -1,6 +1,6 @@
 
 
- <img align="center" src="https://raw.githubusercontent.com/shubham-arora-18/shubham-arora-18/main/header_image.jpeg" width="100%">    
+ <img align="center" src="https://shubham-arora.com/images/github_header_image.jpeg" width="100%">    
 </a>
 
 
@@ -107,7 +107,7 @@ Also...
 
 
 <p align="center">
-<img alt="github-snake" src="https://raw.githubusercontent.com/shubham-arora-18/shubham-arora-18/main/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+<img alt="github-snake" src="https://shubham-arora.com/images/github_snake.svg" title="🐍 Watch how the snake's eating my contributions" />
 </p>
 
 **Thank you for your time!**
