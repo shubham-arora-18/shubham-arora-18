@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/warkahot">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=github&logoColor=white">
   </a>
-    <a href="https://medium.com/@shubham.arora.player">
+    <a href="https://shubham-arora.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/6214197">
