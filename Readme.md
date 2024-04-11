@@ -99,7 +99,7 @@ Also...
 - 🏀 I love playing hoops.
 - 🌿 I am a vegetarian and love animals, I have 2 pet cats myself.
 - 💪 I try and hit the gym regularly.
-- 🎮 I am a gaming nerd, got my PS5 on the launch day in India, waited 3 hours on amazon to order!
+- 🎮 I am a gaming nerd, got my PS5 on the launch day in India, waited 3 hours on amazon to order! Also, my linkedin handle name is my gaming name as well.
 - 🏡 I love working remotely but prefer working from a single location, over being a Digital Nomad.
 - 📈 I'm deeply involved in the Indian stock market, and I have a strong belief that the upcoming decades will mark the greatest period India has ever experienced.
 
