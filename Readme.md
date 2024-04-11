@@ -98,7 +98,7 @@ Also...
 
 ## Fun Facts
 - 🏀 I love playing hoops.
-- 🌿 I am a vegetarian and love animals, I have 2 cats myself.
+- 🌿 I am a vegetarian and love animals, I have 2 pet cats myself.
 - 💪 I try and hit the gym regularly.
 - 🎮 I am a gaming nerd, got my PS5 on the launch day in India, waited 3 hours on amazon to order!
 - 🏡 I love working remotely but prefer working from a single location, over being a Digital Nomad.
