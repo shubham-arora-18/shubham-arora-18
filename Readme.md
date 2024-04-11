@@ -106,7 +106,7 @@ Also...
 
 
 <p align="center">
-<img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/shubham-arora-18/shubham-arora-18/main/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </p>
 
 **Thank you for your time!**
