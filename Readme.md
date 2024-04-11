@@ -1,24 +1,19 @@
 
-<a href="https://github.com/walidbosso"> 
+
  <img align="center" src="header_image.jpeg" width="100%">    
 </a>
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />!<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1>
 
 <br/>
-<a href="https://github.com/walidbosso"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 <p align="center">
-<a href="https://github.com/walidbosso"> 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=94&lines=I+am+Shubham+Arora;A+Google+Certified+Engineer+%7C+Lead+Software+Engineer;Backend+Developer+%7C+Cloud+Developer+%7C+Devops+Engineer;Distributed+Systems+and+Microservices+Expert; ;" alt="Typing SVG" />
 </a>
 
 ## Online Portfolio
 <p align="left" >
-  <a href="https://github.com/shubham-arora-18" style="display: none;">
-    <img src="https://komarev.com/ghpvc/?username=warkahot&color=red" alt="profile views"/>
-  </a>
   <a href="https://www.shubham-arora.com">
     <img alt="Personal Portfloio" src="https://img.shields.io/badge/shubhamarora.com-darkgreen?style=for-the-badge&logo=icloud&logoColor=white">
   </a>
@@ -115,3 +110,6 @@ Also...
 </p>
 
 **Thank you for your time!**
+  <br><br><a href="https://github.com/shubham-arora-18">
+    <img src="https://komarev.com/ghpvc/?username=warkahot&color=red" alt="profile views"/>
+  </a>
