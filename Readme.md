@@ -48,7 +48,7 @@
 - Google Certified Engineer, competent in coding, testing, deploying, scaling and
 automation of microservices in distributed systems. 
 - A seasoned software developer
-with **6 years** of experience and a proven track record of delivering impactful solutions
+with **7 years** of experience and a proven track record of delivering impactful solutions
 across various industries. 
 - Accomplished in leading, planning, standardizing, developing and delivering serverless, distributed, secure and scalable **backend+cloud** solutions.
 - Fast and enthusiastic learner, always open to exploring new technologies. Can quickly
