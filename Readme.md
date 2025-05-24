@@ -52,13 +52,13 @@
 
 ## Live Projects
 - **Open Source Serverless, Stateful and Secured Microservice**
-  - [Live Link](https://cloud-endpoint-proxy-application-z4ndkzhdma-uc.a.run.app/v1/docs)
+  - [Live Link](https://cloud-endpoint-proxy-application-z4ndkzhdma-uc.a.run.app/v1/docs).
   - Deployed on GCP for less than $1/Month.
   - Documentation and Code: [Medium Blog](https://shubham-arora.medium.com/deploy-a-secure-serverless-backend-web-application-with-cloud-run-cloud-endpoints-and-e9d63b022465).
   - Tech: Python, Docker, Fastapi, GCP.
   - GCP Services: Cloud Run, Cloud Endpoints, Datastore. 
 - **Personal Portfolio** 
-  - [Live Link](www.shubham-arora.com)
+  - [Live Link](www.shubham-arora.com).
   - Serverless website hosted on AWS, secured with SSL encryption.
   - Responsive for both desktop and mobile with Frontend.
   - Tech: HTML, CSS, and JavaScript, AWS.
