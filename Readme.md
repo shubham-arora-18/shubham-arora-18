@@ -38,9 +38,8 @@
 ## Professional Summary
 
 - Lead Software Engineer with **7 years** of experience designing, developing, and scaling microservices in distributed systems and streamlining multi-tenant infrastructure.
-- Expert in delivering secure, serverless, and scalable backend, cloud, and data engineering solutions across diverse
-industries
-- Proficient at creating low-latency backend systems, designing end-to-end data workflows, deploying monitoring and alerting solutions, and driving automation and standardization initiatives 
+- Expert in delivering secure, serverless, and scalable backend, cloud, and data engineering solutions across diverse industries.
+- Proficient at creating low-latency backend systems, designing end-to-end data workflows, deploying monitoring and alerting solutions, and driving automation and standardization initiatives. 
 - A fast learner who adapts quickly to change, values simplicity, and is driven by global exposure and the opportunity to contribute to innovative, high-impact projects.
 
 ## Tech Blogs on Medium
