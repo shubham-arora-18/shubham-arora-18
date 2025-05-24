@@ -1,8 +1,3 @@
-
-
- <img align="center" src="https://shubham-arora.com/images/github_header_image.jpeg" width="100%">    
-</a>
-
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />!<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1>
 
 <br/>
@@ -35,7 +30,7 @@
 <a href="https://twitter.com/warkahot">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-<a href="mailto:gmail@shubham-arora.com">
+<a href="mailto:me@shubham-arora.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 <a href="https://www.shubham-arora.com/resume.pdf">
@@ -93,7 +88,7 @@ Also...
 
 - 💬 Ask me about **Backend, Cloud, Dev-ops**.
 
-- 📫 You can directly reach me at **gmail@shubham-arora.com**.
+- 📫 You can directly reach me at **me@shubham-arora.com**.
 
 ## Fun Facts
 - 🏀 I love playing hoops.
