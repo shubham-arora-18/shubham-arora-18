@@ -51,18 +51,18 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/1">
 
 ## Live Projects
-- **Open Source Serverless, Stateful and Secured Microservice deployed on GCP for less than $1/Month**
-  - Documentation and Code: https://medium.com/p/e9d63b022465
-  - Live Link: https://bit.ly/3TwkMJz (Since serverless, cold start takes longer, subsequent calls are instant)
-  - Built on top of GCP. 
-  - Cloud Services: Cloud Run, Endpoints and Datastore.
-- **Personal Portfolio on AWS** 
-  - Live Link: https://www.shubham-arora.com
+- **Open Source Serverless, Stateful and Secured Microservice**
+  - [Live Link](https://cloud-endpoint-proxy-application-z4ndkzhdma-uc.a.run.app/v1/docs)
+  - Deployed on GCP for less than $1/Month.
+  - Documentation and Code: [Medium Blog](https://shubham-arora.medium.com/deploy-a-secure-serverless-backend-web-application-with-cloud-run-cloud-endpoints-and-e9d63b022465).
+  - Tech: Python, Docker, Fastapi, GCP.
+  - GCP Services: Cloud Run, Cloud Endpoints, Datastore. 
+- **Personal Portfolio** 
+  - [Live Link](www.shubham-arora.com)
   - Serverless website hosted on AWS, secured with SSL encryption.
-  - Responsive for
-both desktop and mobile. 
-  - Frontend: HTML, CSS, and JavaScript. 
-  - Cloud Services: CloudFront, Route 53, Certificate Manager, S3, API Gateway, Lambda, and SES.
+  - Responsive for both desktop and mobile with Frontend.
+  - Tech: HTML, CSS, and JavaScript, AWS.
+  - AWS Services: CloudFront, Route 53, Certificate Manager, S3, API Gateway, Lambda, SES.
 
 ## Tech Skills
 |<p align="center">**Programming Languages**|<p align="center">**Frontend**|<p align="center">**Backend**|<p align="center">**Data**| <p align="center">**IDEs/Softwares**|<p align="center">**Cloud**|<p align="center">**Big Data**|<p align="center">**Other**
