@@ -53,7 +53,11 @@ motivated by a desire for global exposure and the chance to contribute to ground
 
 ## Tech Blogs on Medium
 
-![Shubhams's blog](https://github-read-medium.vercel.app/latest?username=shubham-arora&bg=white&text=black&limit=10&theme=highcontrast&show_icons=true)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shubham-arora/1">
 
 ## Live Projects
 - **Open Source Serverless, Stateful and Secured Microservice deployed on GCP for less than $1/Month**
