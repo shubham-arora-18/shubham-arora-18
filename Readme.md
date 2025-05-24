@@ -4,7 +4,7 @@
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
 </a>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=94&lines=I+am+Shubham+Arora;A+Google+Certified+Engineer+%7C+Lead+Software+Engineer;Backend+Developer+%7C+Cloud+Developer+%7C+Devops+Engineer;Distributed+Systems+and+Microservices+Expert; ;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=94&lines=I+am+Shubham+Arora;A+Google+Certified+Engineer+%7C+Lead+Software+Engineer;Backend+Developer+%7C+Cloud+Developer+%7C+Devops+Engineer;Distributed+Systems+and+Microservices+Expert" alt="Typing SVG" />
 </a>
 
 ## Online Portfolio
